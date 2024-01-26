@@ -11,12 +11,23 @@ namespace TEST
         int x;
         int y;
 
-        int z = X + Y * X + Y;
+
 
         public int X { get => x; set => x = value; }
-        public int Y { get => y; set => y = value; }
+        int k = 5;
+        int l = 6;
+        int m = 6;
+        int n = 7;
+        int o = 8;
+
 
         int z = 2;
         int j = 5;
+<<<<<<< HEAD
+=======
+
+ 
+
+>>>>>>> Man5
     }
 }
