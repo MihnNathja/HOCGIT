@@ -12,5 +12,8 @@ namespace TEST
         int y;
         int z = x + y * x + y;
         int y = 5;
+
+        int z = 2;
+        int j = 5;
     }
 }
