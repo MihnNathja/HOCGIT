@@ -10,10 +10,14 @@ namespace TEST
     {
         int x;
         int y;
-        int z = x + y * x + y;
-        int y = 5;
+
+        int z = X + Y * X + Y;
+
+        public int X { get => x; set => x = value; }
+        public int Y { get => y; set => y = value; }
 
         int z = 2;
         int j = 5;
+
     }
 }
