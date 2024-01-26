@@ -19,5 +19,11 @@ namespace TEST
         int z = 2;
         int j = 5;
 
+        int k = 6;
+        int l = 7;
+        int m = 8;
+        int n = 9;
+        int o = 10;
+
     }
 }
