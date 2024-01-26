@@ -10,6 +10,8 @@ namespace TEST
     {
         int x;
         int y = 5;
+        int z = 2;
+        int j = 5;
 
     }
 }
