@@ -9,7 +9,8 @@ namespace TEST
     internal class Demo
     {
         int x;
+        int y;
+        int z = x + y * x + y;
         int y = 5;
-
     }
 }
